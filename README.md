@@ -1,6 +1,6 @@
 # **📔 About This Project:**
 
-Personal website for Rudy Salcedo, american personal traier.
+Website for Rudy Salcedo, a personal trainer.
 
 
 <br />
